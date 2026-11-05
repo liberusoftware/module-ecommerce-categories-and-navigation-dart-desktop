@@ -1,5 +1,5 @@
-name: module_boilerplate_dart_desktop
-description: Liberu Dart · Desktop reusable module foundation.
+name: module_ecommerce_categories_and_navigation_dart_desktop
+description: "Categories and Navigation Dart \u00b7 Desktop presentation skeleton."
 version: 0.1.0-dev.1
 publish_to: none
 environment:
